@@ -1,0 +1,19 @@
+.banner {
+    background-color: goldenrod;
+    color:honeydew;
+    font-size: 30px;
+    margin-top: 75px;
+    text-align: center;
+    font-family:fantasy;
+    padding: 100px 0px;
+}
+
+#guitar-elvis {
+    height: 200px;
+    width: 275px;
+}
+
+.bold {
+    font-weight: 700;
+    font-size: 40px;
+}
